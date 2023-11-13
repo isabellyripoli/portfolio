@@ -6,7 +6,6 @@ body {
 
 }
 #nome {
-    
-    position: fixed;
-    right: ;
+    translate: 0 100px;
+    transform: rotate(90d);
 }
